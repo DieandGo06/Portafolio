@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: 175f19f96710da747a8d5bb8a78e3f1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2460275305409674144
+    second: "Bot\xF3n Jugar_0"
+  - first:
+      213: 4164010951269553790
+    second: "Bot\xF3n Jugar_1"
+  - first:
+      213: 1353929654705117490
+    second: "Bot\xF3n Jugar_2"
+  - first:
+      213: -3790170635126741837
+    second: "Bot\xF3n Jugar_3"
+  - first:
+      213: -7377844438137039692
+    second: "Bot\xF3n Jugar_4"
+  - first:
+      213: 4186333623714950077
+    second: "Bot\xF3n Jugar_5"
+  - first:
+      213: 2224027671585189183
+    second: "Bot\xF3n Jugar_6"
+  - first:
+      213: -2061603220802174613
+    second: "Bot\xF3n Jugar_7"
+  - first:
+      213: -3799979510595119642
+    second: "Bot\xF3n Jugar_8"
+  - first:
+      213: 7300743000104127258
+    second: "Bot\xF3n Jugar_9"
+  - first:
+      213: 114733380067914031
+    second: "Bot\xF3n Jugar_10"
+  - first:
+      213: -7648404376281866875
+    second: "Bot\xF3n Jugar_11"
+  - first:
+      213: -6613169560904622010
+    second: "Bot\xF3n Jugar_12"
+  - first:
+      213: -5661177010018347055
+    second: "Bot\xF3n Jugar_13"
+  - first:
+      213: 3029823197760879092
+    second: "Bot\xF3n Jugar_14"
+  - first:
+      213: -6893275310395047729
+    second: "Bot\xF3n Jugar_15"
+  - first:
+      213: -3147204581042352634
+    second: "Bot\xF3n Jugar_16 (Cerrar)"
+  - first:
+      213: -7148812877443418430
+    second: "Bot\xF3n Jugar_17"
+  - first:
+      213: -2381061143550827352
+    second: "Bot\xF3n Jugar_18"
+  - first:
+      213: -5893133648564255628
+    second: "Bot\xF3n Jugar_19"
+  - first:
+      213: 7368324977503824534
+    second: "Bot\xF3n Jugar_20"
+  - first:
+      213: 3225376876054266216
+    second: "Bot\xF3n Jugar_21"
+  - first:
+      213: 2998365583438901835
+    second: "Bot\xF3n Jugar_22"
+  - first:
+      213: 3313266392411433948
+    second: "Bot\xF3n Jugar_23"
+  - first:
+      213: -8686209427219005959
+    second: "Bot\xF3n Jugar_24"
+  - first:
+      213: -4517982217052910835
+    second: "Bot\xF3n Jugar_25"
+  - first:
+      213: 8817991008494864035
+    second: "Bot\xF3n Jugar_26"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abfb9cea57a42220800000000000000
+      internalID: 2460275305409674144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_1"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2000
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e761247f5e989c930800000000000000
+      internalID: 4164010951269553790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_2"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2000
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239d097f8df1ac210800000000000000
+      internalID: 1353929654705117490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_3"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1750
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4672773eb966bc0800000000000000
+      internalID: -3790170635126741837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_4"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1750
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b410c0b291ac9990800000000000000
+      internalID: -7377844438137039692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_5"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1750
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbadc82048d81a30800000000000000
+      internalID: 4186333623714950077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d697742655dde10800000000000000
+      internalID: 2224027671585189183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_7"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1500
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6109442bc6b363e0800000000000000
+      internalID: -2061603220802174613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_8"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1500
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5173da4c2c34bc0800000000000000
+      internalID: -3799979510595119642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_9"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1250
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b40add313715560800000000000000
+      internalID: 7300743000104127258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_10"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1250
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21f3dab66d979100800000000000000
+      internalID: 114733380067914031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_11"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1250
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d1d252eb86bd590800000000000000
+      internalID: -7648404376281866875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640aada825d4934a0800000000000000
+      internalID: -6613169560904622010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_13"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1000
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d79f3be0857f61b0800000000000000
+      internalID: -5661177010018347055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_14"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1000
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f976ca45281c0a20800000000000000
+      internalID: 3029823197760879092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_15"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0cee890aa2650a0800000000000000
+      internalID: -6893275310395047729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_16 (Cerrar)"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 750
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e0d7fab12e254d0800000000000000
+      internalID: -3147204581042352634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_17"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 750
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c63f3260905acc90800000000000000
+      internalID: -7148812877443418430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_18"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4ea2e5185c4fed0800000000000000
+      internalID: -2381061143550827352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_19"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 500
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4740d677b22673ea0800000000000000
+      internalID: -5893133648564255628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_20"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 500
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ae0c9278c814660800000000000000
+      internalID: 7368324977503824534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_21"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86149f31e27d2cc20800000000000000
+      internalID: 3225376876054266216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_22"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 250
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42f1a3bc955c9920800000000000000
+      internalID: 2998365583438901835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_23"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 250
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb6cedba361bfd20800000000000000
+      internalID: 3313266392411433948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd36f52c82647780800000000000000
+      internalID: -8686209427219005959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_25"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b87036c17ec41c0800000000000000
+      internalID: -4517982217052910835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Jugar_26"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6cced3a1ccf5a70800000000000000
+      internalID: 8817991008494864035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

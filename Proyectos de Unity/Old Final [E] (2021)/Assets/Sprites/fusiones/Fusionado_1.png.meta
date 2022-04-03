@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: dbb660c3c3b683a4ba19b7f83547a449
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1805964376297289700
+    second: fusionClonLv1(2)_0
+  - first:
+      213: 5063631629147103472
+    second: fusionClonLv1(2)_1
+  - first:
+      213: 1408318248070627109
+    second: fusionClonLv1(2)_2
+  - first:
+      213: 3069251637079941399
+    second: fusionClonLv1(2)_3
+  - first:
+      213: -7802093198561328565
+    second: fusionClonLv1(2)_4
+  - first:
+      213: -3049297702657181905
+    second: fusionClonLv1(2)_5
+  - first:
+      213: -4647079247941429096
+    second: fusionClonLv1(2)_6
+  - first:
+      213: 6404947691279705505
+    second: fusionClonLv1(2)_7
+  - first:
+      213: 172395366909383370
+    second: fusionClonLv1(2)_8
+  - first:
+      213: -8711816342726801737
+    second: fusionClonLv1(2)_9
+  - first:
+      213: -2030615154127500964
+    second: fusionClonLv1(2)_10
+  - first:
+      213: 4711870257444451200
+    second: fusionClonLv1(2)_11
+  - first:
+      213: -6472324726325026714
+    second: fusionClonLv1(2)_12
+  - first:
+      213: -2031652485914789423
+    second: fusionClonLv1(2)_13
+  - first:
+      213: 729591899220541404
+    second: fusionClonLv1(2)_14
+  - first:
+      213: -4776410221326685821
+    second: fusionClonLv1(2)_15
+  - first:
+      213: 1112278603423389186
+    second: fusionClonLv1(2)_16
+  - first:
+      213: -8338656827393789522
+    second: fusionClonLv1(2)_17
+  - first:
+      213: 1838387341151213802
+    second: fusionClonLv1(2)_18
+  - first:
+      213: 1994264768522077055
+    second: fusionClonLv1(2)_19
+  - first:
+      213: 1355439247278611037
+    second: fusionClonLv1(2)_20
+  - first:
+      213: -2333447614559113374
+    second: fusionClonLv1(2)_21
+  - first:
+      213: -2346701246262105574
+    second: fusionClonLv1(2)_22
+  - first:
+      213: -5760162378485475922
+    second: fusionClonLv1(2)_23
+  - first:
+      213: -9216475430636740074
+    second: fusionClonLv1(2)_24
+  - first:
+      213: -7699659821666097291
+    second: fusionClonLv1(2)_25
+  - first:
+      213: 444404210998062857
+    second: fusionClonLv1(2)_26
+  - first:
+      213: 5084898218429342536
+    second: fusionClonLv1(2)_27
+  - first:
+      213: -8385503696140083066
+    second: fusionClonLv1_0
+  - first:
+      213: -8086296347921555886
+    second: fusionClonLv1_1
+  - first:
+      213: -3137722909263284369
+    second: fusionClonLv1_2
+  - first:
+      213: -2969943221184500291
+    second: fusionClonLv1_3
+  - first:
+      213: 1104131284831087683
+    second: fusionClonLv1_4
+  - first:
+      213: -3164168826735369413
+    second: fusionClonLv1_5
+  - first:
+      213: 4481873489484779197
+    second: fusionClonLv1_6
+  - first:
+      213: 8822274540676082257
+    second: fusionClonLv1_7
+  - first:
+      213: 768818563890309848
+    second: fusionClonLv1_8
+  - first:
+      213: -4387182271349265008
+    second: fusionClonLv1_9
+  - first:
+      213: -8157433374567965095
+    second: fusionClonLv1_10
+  - first:
+      213: 10830066794171502
+    second: fusionClonLv1_11
+  - first:
+      213: 2550639809386292732
+    second: fusionClonLv1_12
+  - first:
+      213: -3231938168149595912
+    second: fusionClonLv1_13
+  - first:
+      213: -1773430885011782301
+    second: fusionClonLv1_14
+  - first:
+      213: 2031294403449197688
+    second: fusionClonLv1_15
+  - first:
+      213: 5489817445853968522
+    second: fusionClonLv1_16
+  - first:
+      213: 6875836532038958435
+    second: fusionClonLv1_17
+  - first:
+      213: -4690630104657908449
+    second: fusionClonLv1_18
+  - first:
+      213: 7663440211899526948
+    second: fusionClonLv1_19
+  - first:
+      213: 7780720493559121662
+    second: fusionClonLv1_20
+  - first:
+      213: -7268270302898880998
+    second: fusionClonLv1_21
+  - first:
+      213: 3638105600030147050
+    second: fusionClonLv1_22
+  - first:
+      213: -6774477075373608613
+    second: fusionClonLv1_23
+  - first:
+      213: -8069434468323563294
+    second: fusionClonLv1_24
+  - first:
+      213: 5286730695237017718
+    second: fusionClonLv1_25
+  - first:
+      213: 2778687316823066638
+    second: fusionClonLv1_26
+  - first:
+      213: -6544512422989307904
+    second: fusionClonLv1_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fusionClonLv1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68068d011d4b0ab80800000000000000
+      internalID: -8385503696140083066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ed8998054b7cf80800000000000000
+      internalID: -8086296347921555886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67b1cd63a19474d0800000000000000
+      internalID: -3137722909263284369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbde7323064a8c6d0800000000000000
+      internalID: -2969943221184500291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ca0c9bd89a25f00800000000000000
+      internalID: 1104131284831087683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_5
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33e211773d9614d0800000000000000
+      internalID: -3164168826735369413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe0bf45130d23e30800000000000000
+      internalID: 4481873489484779197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_7
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a68fbc3f30f6a70800000000000000
+      internalID: 8822274540676082257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_8
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da686519646baa00800000000000000
+      internalID: 768818563890309848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_9
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09de55fe7f89d13c0800000000000000
+      internalID: -4387182271349265008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_10
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ed5f5d099face80800000000000000
+      internalID: -8157433374567965095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_11
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c092c63e9762000800000000000000
+      internalID: 10830066794171502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5a07c8461b56320800000000000000
+      internalID: 2550639809386292732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8aa6f0c59d523d0800000000000000
+      internalID: -3231938168149595912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3658a2191028367e0800000000000000
+      internalID: -1773430885011782301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87414d76f7b903c10800000000000000
+      internalID: 2031294403449197688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_16
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a883ed571efbf2c40800000000000000
+      internalID: 5489817445853968522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_17
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36df5d965e0eb6f50800000000000000
+      internalID: 6875836532038958435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dac1795c887eeb0800000000000000
+      internalID: -4690630104657908449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_19
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f27b325420a5a60800000000000000
+      internalID: 7663440211899526948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_20
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6813b901caafb60800000000000000
+      internalID: 7780720493559121662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_21
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ef0302baae12b90800000000000000
+      internalID: -7268270302898880998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_22
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1082984c52d7230800000000000000
+      internalID: 3638105600030147050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_23
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51345f1ef83cf1a0800000000000000
+      internalID: -6774477075373608613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8e741da1c930090800000000000000
+      internalID: -8069434468323563294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_25
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670a1c89e8d3e5940800000000000000
+      internalID: 5286730695237017718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_26
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e084f1d7461ef8620800000000000000
+      internalID: 2778687316823066638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fusionClonLv1_27
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000679720a83d25a0800000000000000
+      internalID: -6544512422989307904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

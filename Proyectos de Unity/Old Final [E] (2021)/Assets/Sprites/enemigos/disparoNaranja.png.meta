@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 6f6dd848c4a4edc4b9b7bfbc82250e85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2246348664940105639
+    second: Balas Amarillas_0
+  - first:
+      213: 5732644986446897554
+    second: Balas Amarillas_1
+  - first:
+      213: 5765559773242617521
+    second: Balas Amarillas_2
+  - first:
+      213: -241174466561782906
+    second: Balas Amarillas_3
+  - first:
+      213: 5669624444247838161
+    second: Balas Amarillas_4
+  - first:
+      213: -4140345996383517403
+    second: Balas Amarillas_5
+  - first:
+      213: 1651731334953304389
+    second: Balas Amarillas_6
+  - first:
+      213: 5976964568505142441
+    second: Balas Amarillas_7
+  - first:
+      213: -5103680934776594122
+    second: Balas Amarillas_8
+  - first:
+      213: -5049904551300671872
+    second: Balas Amarillas_9
+  - first:
+      213: -5894155108708018808
+    second: Balas Amarillas_10
+  - first:
+      213: 741552628174321534
+    second: Balas Amarillas_11
+  - first:
+      213: 8955272370606257381
+    second: Balas Amarillas_12
+  - first:
+      213: -4711961018421184906
+    second: Balas Amarillas_13
+  - first:
+      213: -1803066255926220248
+    second: Balas Amarillas_14
+  - first:
+      213: -2215311306620358659
+    second: Balas Amarillas_15
+  - first:
+      213: -5443622785435136786
+    second: Balas Amarillas_16
+  - first:
+      213: -3563404563793437845
+    second: Balas Amarillas_17
+  - first:
+      213: 8458202411925459373
+    second: Balas Amarillas_18
+  - first:
+      213: 4409224729676012798
+    second: Balas Amarillas_19
+  - first:
+      213: 8521670431840182452
+    second: Balas Amarillas_20
+  - first:
+      213: -433371456795613986
+    second: Balas Amarillas_21
+  - first:
+      213: 748004740493526696
+    second: Balas Amarillas_22
+  - first:
+      213: -1731720517914248624
+    second: Balas Amarillas_23
+  - first:
+      213: 3186827810952269728
+    second: Balas Amarillas_24
+  - first:
+      213: 7176629200596963956
+    second: Balas Amarillas_25
+  - first:
+      213: -7286707882803314026
+    second: Balas Amarillas_26
+  - first:
+      213: 6355666975278019792
+    second: Balas Amarillas_27
+  - first:
+      213: 607609842401532108
+    second: Balas Amarillas_28
+  - first:
+      213: 7847422331411586266
+    second: Balas Amarillas_29
+  - first:
+      213: -2810219050657783229
+    second: Balas Amarillas_30
+  - first:
+      213: 8246591626130181060
+    second: Balas Amarillas_31
+  - first:
+      213: -1961683192760711673
+    second: Balas Amarillas_32
+  - first:
+      213: -4410792142325740680
+    second: Balas Amarillas_33
+  - first:
+      213: 1408225126276388285
+    second: Balas Amarillas_34
+  - first:
+      213: -5751076787049427605
+    second: Balas Amarillas_35
+  - first:
+      213: -1019765881792571844
+    second: Balas Amarillas_36
+  - first:
+      213: 6637615208497305607
+    second: Balas Amarillas_37
+  - first:
+      213: -2078311929489089854
+    second: Balas Amarillas_38
+  - first:
+      213: -4366654692780988471
+    second: Balas Amarillas_39
+  - first:
+      213: -5674544610019401759
+    second: Balas Amarillas_40
+  - first:
+      213: 7740393073552054553
+    second: Balas Amarillas_41
+  - first:
+      213: -7160750643624505727
+    second: Balas Amarillas_42
+  - first:
+      213: -6044284385435940986
+    second: Balas Amarillas_43
+  - first:
+      213: 5341683788166273981
+    second: Balas Amarillas_44
+  - first:
+      213: -5611441141046261383
+    second: Balas Amarillas_45
+  - first:
+      213: 5779185463235209030
+    second: Balas Amarillas_46
+  - first:
+      213: -4617983923940279793
+    second: Balas Amarillas_47
+  - first:
+      213: -2022831484350408090
+    second: Balas Amarillas_48
+  - first:
+      213: 514008472911019892
+    second: Balas Amarillas_49
+  - first:
+      213: 5492654690224901715
+    second: disparoNaranja_0
+  - first:
+      213: 521913384447613044
+    second: disparoNaranja_1
+  - first:
+      213: -8890789854303168572
+    second: disparoNaranja_2
+  - first:
+      213: -8951358430058114632
+    second: disparoNaranja_3
+  - first:
+      213: 1334495819122203721
+    second: disparoNaranja_4
+  - first:
+      213: 421228922381189554
+    second: disparoNaranja_5
+  - first:
+      213: -7686440994900677492
+    second: disparoNaranja_6
+  - first:
+      213: -2916007738412327873
+    second: disparoNaranja_7
+  - first:
+      213: 1450832223196247378
+    second: disparoNaranja_8
+  - first:
+      213: -5047072393041714025
+    second: disparoNaranja_9
+  - first:
+      213: 5554681601643808486
+    second: disparoNaranja_10
+  - first:
+      213: -1288131132398966881
+    second: disparoNaranja_11
+  - first:
+      213: -1438996568525367715
+    second: disparoNaranja_12
+  - first:
+      213: 8666843013723156010
+    second: disparoNaranja_13
+  - first:
+      213: -3758919194402076557
+    second: disparoNaranja_14
+  - first:
+      213: -3634044259369258747
+    second: disparoNaranja_15
+  - first:
+      213: -5314438457829118966
+    second: disparoNaranja_16
+  - first:
+      213: -5481339078851473638
+    second: disparoNaranja_17
+  - first:
+      213: 7231319066480720180
+    second: disparoNaranja_18
+  - first:
+      213: -8900657172516182018
+    second: disparoNaranja_19
+  - first:
+      213: 1062221815203257748
+    second: disparoNaranja_20
+  - first:
+      213: -1476873774475466872
+    second: disparoNaranja_21
+  - first:
+      213: 2113859051316531240
+    second: disparoNaranja_22
+  - first:
+      213: 1613993015719416417
+    second: disparoNaranja_23
+  - first:
+      213: -3791837943817866494
+    second: disparoNaranja_24
+  - first:
+      213: 1457785750287605547
+    second: disparoNaranja_25
+  - first:
+      213: -7999849426340072535
+    second: disparoNaranja_26
+  - first:
+      213: 3210964627746756376
+    second: disparoNaranja_27
+  - first:
+      213: -4805754881060340013
+    second: disparoNaranja_28
+  - first:
+      213: 7165051141634903279
+    second: disparoNaranja_29
+  - first:
+      213: 5674523270964330775
+    second: disparoNaranja_30
+  - first:
+      213: -8962000952667028048
+    second: disparoNaranja_31
+  - first:
+      213: -6655552358172598324
+    second: disparoNaranja_32
+  - first:
+      213: 4971876819952813994
+    second: disparoNaranja_33
+  - first:
+      213: -8210622668795890374
+    second: disparoNaranja_34
+  - first:
+      213: 4195910062314450900
+    second: disparoNaranja_35
+  - first:
+      213: 6205713075253947998
+    second: disparoNaranja_36
+  - first:
+      213: -7752649685608584888
+    second: disparoNaranja_37
+  - first:
+      213: -5603781642216249852
+    second: disparoNaranja_38
+  - first:
+      213: 5893535854865752570
+    second: disparoNaranja_39
+  - first:
+      213: 3467263289963941807
+    second: disparoNaranja_40
+  - first:
+      213: 6402035455144080243
+    second: disparoNaranja_41
+  - first:
+      213: 8833661079903345777
+    second: disparoNaranja_42
+  - first:
+      213: 3390404741920353944
+    second: disparoNaranja_43
+  - first:
+      213: 9132120861654777142
+    second: disparoNaranja_44
+  - first:
+      213: 8960549631431206297
+    second: disparoNaranja_45
+  - first:
+      213: -1764403259394987875
+    second: disparoNaranja_46
+  - first:
+      213: 8022234723690542667
+    second: disparoNaranja_47
+  - first:
+      213: -8823777069673073556
+    second: disparoNaranja_48
+  - first:
+      213: 8392501915026147390
+    second: disparoNaranja_49
+  - first:
+      213: -936869137074388459
+    second: disparoNaranja_50
+  - first:
+      213: 2039378368922562928
+    second: disparoNaranja_51
+  - first:
+      213: -6802314555453204293
+    second: disparoNaranja_52
+  - first:
+      213: 733782110207537191
+    second: disparoNaranja_53
+  - first:
+      213: 2205116582284903082
+    second: disparoNaranja_54
+  - first:
+      213: 2027300064274902190
+    second: disparoNaranja_55
+  - first:
+      213: 2670924139491861130
+    second: disparoNaranja_56
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 150, y: 0, z: 0, w: 150}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: disparoNaranja_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e0db4e654d93c40800000000000000
+      internalID: 5492654690224901715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disparoNaranja_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478958b35753e3700800000000000000
+      internalID: 521913384447613044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disparoNaranja_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7dc91abb19d9480800000000000000
+      internalID: -8890789854303168572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disparoNaranja_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b110372fe266c380800000000000000
+      internalID: -8951358430058114632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disparoNaranja_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cd50580e4158210800000000000000
+      internalID: 1334495819122203721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disparoNaranja_5
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1c6af197188d500800000000000000
+      internalID: 421228922381189554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: disparoNaranja_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ce1ffb3a6445590800000000000000
+      internalID: -7686440994900677492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

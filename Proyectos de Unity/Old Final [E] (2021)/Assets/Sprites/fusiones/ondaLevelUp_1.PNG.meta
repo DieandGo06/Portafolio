@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: e2a6888e4215e1041b9e162bf2deeb12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3675436659543872178
+    second: p_explosionBala_0
+  - first:
+      213: -3588135697390763668
+    second: p_explosionBala_1
+  - first:
+      213: -5930611591645497722
+    second: p_explosionBala_2
+  - first:
+      213: -7228325208736682900
+    second: p_explosionBala_3
+  - first:
+      213: 4032849777779042890
+    second: p_explosionBala_4
+  - first:
+      213: -2909573145284304208
+    second: p_explosionBala_5
+  - first:
+      213: -9056818448489190399
+    second: p_explosionBala_6
+  - first:
+      213: -6748056795462785096
+    second: p_explosionBala_7
+  - first:
+      213: -5180510944878226415
+    second: p_explosionBala_8
+  - first:
+      213: 3648901087618332492
+    second: p_explosionBala_9
+  - first:
+      213: -4264476366562764427
+    second: p_explosionBala_10
+  - first:
+      213: -1183102211671554584
+    second: p_explosionBala_11
+  - first:
+      213: -5514798628742629946
+    second: ondaLv1_0
+  - first:
+      213: 2592056807881002336
+    second: ondaLv1_1
+  - first:
+      213: 1225865216361813473
+    second: ondaLv1_2
+  - first:
+      213: 5740791831811062573
+    second: ondaLv1_3
+  - first:
+      213: 8267681248451452840
+    second: ondaLv1_4
+  - first:
+      213: -8989899957635432249
+    second: ondaLv1_5
+  - first:
+      213: 5489954440639037849
+    second: ondaLv1_6
+  - first:
+      213: -8471711001088170888
+    second: ondaLv1_7
+  - first:
+      213: -4550854502815168593
+    second: ondaLv1_8
+  - first:
+      213: -4721609252504635400
+    second: ondaLv1_9
+  - first:
+      213: 8777132221966696590
+    second: ondaLevelUp1_0
+  - first:
+      213: 6087947390658571937
+    second: ondaLevelUp1_1
+  - first:
+      213: -8242000020420852337
+    second: ondaLevelUp1_2
+  - first:
+      213: -4895246976619039937
+    second: ondaLevelUp1_3
+  - first:
+      213: -8867084430603380368
+    second: ondaLevelUp1_4
+  - first:
+      213: 5065720594831066692
+    second: ondaLevelUp1_5
+  - first:
+      213: 5953002143439264671
+    second: ondaLevelUp1_6
+  - first:
+      213: 1760304806189136219
+    second: ondaLevelUp1_7
+  - first:
+      213: -3686804192338139000
+    second: ondaLevelUp1_8
+  - first:
+      213: -4138161690805230317
+    second: ondaLevelUp1_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ondaLevelUp1_0
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80c5fca043aec970800000000000000
+      internalID: 8777132221966696590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ondaLevelUp1_1
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae687f75ebbc7450800000000000000
+      internalID: 6087947390658571937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ondaLevelUp1_2
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f858d0046a88e9d80800000000000000
+      internalID: -8242000020420852337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ondaLevelUp1_3
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3331d69fc6901cb0800000000000000
+      internalID: -4895246976619039937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ondaLevelUp1_4
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0791d70b0b9c1f480800000000000000
+      internalID: -8867084430603380368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ondaLevelUp1_5
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446494aaa0e0d4640800000000000000
+      internalID: 5065720594831066692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ondaLevelUp1_6
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b16dab8ef4d9250800000000000000
+      internalID: 5953002143439264671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ondaLevelUp1_7
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59f05d05ebdd6810800000000000000
+      internalID: 1760304806189136219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ondaLevelUp1_8
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888a34fde17d5dcc0800000000000000
+      internalID: -3686804192338139000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ondaLevelUp1_9
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 0
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315ac6cfddb4296c0800000000000000
+      internalID: -4138161690805230317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

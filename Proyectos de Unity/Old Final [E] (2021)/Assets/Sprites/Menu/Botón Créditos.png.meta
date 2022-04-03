@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: 6dfa19b20e1fb714eafcd8c4ec6a1d49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1656520956262563309
+    second: "Bot\xF3n Cr\xE9ditos_0"
+  - first:
+      213: 821284860950516205
+    second: "Bot\xF3n Cr\xE9ditos_1"
+  - first:
+      213: 3926790364599345544
+    second: "Bot\xF3n Cr\xE9ditos_2"
+  - first:
+      213: -856101152796710316
+    second: "Bot\xF3n Cr\xE9ditos_3"
+  - first:
+      213: -216616480823597975
+    second: "Bot\xF3n Cr\xE9ditos_4"
+  - first:
+      213: 7801751716857357342
+    second: "Bot\xF3n Cr\xE9ditos_5"
+  - first:
+      213: 6040724605401899653
+    second: "Bot\xF3n Cr\xE9ditos_6"
+  - first:
+      213: -9043745548067849960
+    second: "Bot\xF3n Cr\xE9ditos_7"
+  - first:
+      213: -4322923064403266173
+    second: "Bot\xF3n Cr\xE9ditos_8"
+  - first:
+      213: 7678455871163599798
+    second: "Bot\xF3n Cr\xE9ditos_9"
+  - first:
+      213: 8242530333422066385
+    second: "Bot\xF3n Cr\xE9ditos_10"
+  - first:
+      213: -6231086738709645108
+    second: "Bot\xF3n Cr\xE9ditos_11"
+  - first:
+      213: -5863865543094230056
+    second: "Bot\xF3n Cr\xE9ditos_12"
+  - first:
+      213: 1877516863507560408
+    second: "Bot\xF3n Cr\xE9ditos_13"
+  - first:
+      213: 807520060419616262
+    second: "Bot\xF3n Cr\xE9ditos_14"
+  - first:
+      213: -5756658228709153202
+    second: "Bot\xF3n Cr\xE9ditos_15"
+  - first:
+      213: -2027948680285767105
+    second: "Bot\xF3n Cr\xE9ditos_16 (Cerrar)"
+  - first:
+      213: -145148582230272864
+    second: "Bot\xF3n Cr\xE9ditos_17"
+  - first:
+      213: -4044731821128358485
+    second: "Bot\xF3n Cr\xE9ditos_18"
+  - first:
+      213: 686574516222680761
+    second: "Bot\xF3n Cr\xE9ditos_19"
+  - first:
+      213: -691633795968683365
+    second: "Bot\xF3n Cr\xE9ditos_20"
+  - first:
+      213: 4711532271494028615
+    second: "Bot\xF3n Cr\xE9ditos_21"
+  - first:
+      213: -4890615869896509352
+    second: "Bot\xF3n Cr\xE9ditos_22"
+  - first:
+      213: -8668245285508197675
+    second: "Bot\xF3n Cr\xE9ditos_23"
+  - first:
+      213: 4529936400826777512
+    second: "Bot\xF3n Cr\xE9ditos_24"
+  - first:
+      213: -480468678520254983
+    second: "Bot\xF3n Cr\xE9ditos_25"
+  - first:
+      213: -108627049697475341
+    second: "Bot\xF3n Cr\xE9ditos_26"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312caf687fad209e0800000000000000
+      internalID: -1656520956262563309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_1"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2000
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de19c5cca3ac56b00800000000000000
+      internalID: 821284860950516205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_2"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2000
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881ee551803ce7630800000000000000
+      internalID: 3926790364599345544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_3"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1750
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45aefbf89848e14f0800000000000000
+      internalID: -856101152796710316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_4"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1750
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964a308557c6efcf0800000000000000
+      internalID: -216616480823597975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_5"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1750
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14a31dd9d3654c60800000000000000
+      internalID: 7801751716857357342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58221f20607f4d350800000000000000
+      internalID: 6040724605401899653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_7"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1500
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819356007592e7280800000000000000
+      internalID: -9043745548067849960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_8"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1500
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38576e27064e104c0800000000000000
+      internalID: -4322923064403266173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_9"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1250
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb0830ceea5f8a60800000000000000
+      internalID: 7678455871163599798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_10"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1250
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da110edaa9536270800000000000000
+      internalID: 8242530333422066385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_11"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1250
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc87096ff9bb689a0800000000000000
+      internalID: -6231086738709645108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3273d4b5d5f9ea0800000000000000
+      internalID: -5863865543094230056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_13"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1000
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d77c2dc3a74e0a10800000000000000
+      internalID: 1877516863507560408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_14"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1000
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e205e6733e43b00800000000000000
+      internalID: 807520060419616262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_15"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46267057dd3c10b0800000000000000
+      internalID: -5756658228709153202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_16 (Cerrar)"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 750
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a38d87b674bd3e0800000000000000
+      internalID: -2027948680285767105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_17"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 750
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4538c22245cfdf0800000000000000
+      internalID: -145148582230272864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_18"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5eceda6d93ed7c0800000000000000
+      internalID: -4044731821128358485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_19"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 500
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bed94782e3378900800000000000000
+      internalID: 686574516222680761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_20"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 500
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92b1ac1ab2d666f0800000000000000
+      internalID: -691633795968683365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_21"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dd03e53a9b26140800000000000000
+      internalID: 4711532271494028615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_22"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 250
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8583ee527ca012cb0800000000000000
+      internalID: -4890615869896509352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_23"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 250
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d25453d6d434b780800000000000000
+      internalID: -8668245285508197675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af346ae7219dde30800000000000000
+      internalID: 4529936400826777512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_25"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd491358480559f0800000000000000
+      internalID: -480468678520254983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Cr\xE9ditos_26"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f488c916441e7ef0800000000000000
+      internalID: -108627049697475341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

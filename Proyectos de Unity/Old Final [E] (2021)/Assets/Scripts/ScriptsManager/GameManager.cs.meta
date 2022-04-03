@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: bdfae93474a177244ae49fcb4a27611c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nave: {fileID: 3818985315270141958, guid: c1d97f3f1840c6b42a431344a815d224, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

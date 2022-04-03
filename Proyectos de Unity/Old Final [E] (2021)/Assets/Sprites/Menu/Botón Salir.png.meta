@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: e6d4b10308947944ab8d8d5b9adb0846
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3927807601397267823
+    second: "Bot\xF3n Salir_0"
+  - first:
+      213: -7078268997230798815
+    second: "Bot\xF3n Salir_1"
+  - first:
+      213: -318419080434926598
+    second: "Bot\xF3n Salir_2"
+  - first:
+      213: -1280829843387234485
+    second: "Bot\xF3n Salir_3"
+  - first:
+      213: 7978120774744934631
+    second: "Bot\xF3n Salir_4"
+  - first:
+      213: 3698268014760767502
+    second: "Bot\xF3n Salir_5"
+  - first:
+      213: -4804707108219011062
+    second: "Bot\xF3n Salir_6"
+  - first:
+      213: -7887865128246420470
+    second: "Bot\xF3n Salir_7"
+  - first:
+      213: 7336554720071562297
+    second: "Bot\xF3n Salir_8"
+  - first:
+      213: -5965769509307910929
+    second: "Bot\xF3n Salir_9"
+  - first:
+      213: -3977345040037029196
+    second: "Bot\xF3n Salir_10"
+  - first:
+      213: -5378164364253849295
+    second: "Bot\xF3n Salir_11"
+  - first:
+      213: -2070208424731494656
+    second: "Bot\xF3n Salir_12"
+  - first:
+      213: 2118422620603936170
+    second: "Bot\xF3n Salir_13"
+  - first:
+      213: 7014201376792425224
+    second: "Bot\xF3n Salir_14"
+  - first:
+      213: -1255050706396496719
+    second: "Bot\xF3n Salir_15"
+  - first:
+      213: -2640880814934934475
+    second: "Bot\xF3n Salir_16 (Cerrar)"
+  - first:
+      213: -9078904017397562704
+    second: "Bot\xF3n Salir_17"
+  - first:
+      213: 1047867526517132512
+    second: "Bot\xF3n Salir_18"
+  - first:
+      213: 5063952027759706869
+    second: "Bot\xF3n Salir_19"
+  - first:
+      213: -1108072710271050494
+    second: "Bot\xF3n Salir_20"
+  - first:
+      213: -8403662972628022707
+    second: "Bot\xF3n Salir_21"
+  - first:
+      213: -8934511894311398429
+    second: "Bot\xF3n Salir_22"
+  - first:
+      213: 6724808944430569562
+    second: "Bot\xF3n Salir_23"
+  - first:
+      213: -8114196820488210597
+    second: "Bot\xF3n Salir_24"
+  - first:
+      213: 8152440499406004374
+    second: "Bot\xF3n Salir_25"
+  - first:
+      213: -6982461698737842627
+    second: "Bot\xF3n Salir_26"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dfc5bf330628630800000000000000
+      internalID: 3927807601397267823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_1"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2000
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128d56b69dfe4cd90800000000000000
+      internalID: -7078268997230798815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_2"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2000
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb38fc888fb49bf0800000000000000
+      internalID: -318419080434926598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_3"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1750
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b474f272b04993ee0800000000000000
+      internalID: -1280829843387234485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_4"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1750
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e806d1239af7be60800000000000000
+      internalID: 7978120774744934631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_5"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1750
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0031084a23e25330800000000000000
+      internalID: 3698268014760767502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00cfcc6750425db0800000000000000
+      internalID: -4804707108219011062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_7"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1500
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c5ea2257ca88290800000000000000
+      internalID: -7887865128246420470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_8"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1500
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934b41da5ada0d560800000000000000
+      internalID: 7336554720071562297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_9"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1250
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe478d14d34553da0800000000000000
+      internalID: -5965769509307910929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_10"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1250
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba5e6b42c1adc8c0800000000000000
+      internalID: -3977345040037029196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_11"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1250
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1391cf4610cec55b0800000000000000
+      internalID: -5378164364253849295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007bbd8f7642543e0800000000000000
+      internalID: -2070208424731494656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_13"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1000
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadef394626266d10800000000000000
+      internalID: 2118422620603936170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_14"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1000
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803b4c64df2775160800000000000000
+      internalID: 7014201376792425224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_15"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc3226380a259ee0800000000000000
+      internalID: -1255050706396496719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_16 (Cerrar)"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 750
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cb8ab04e4b95bd0800000000000000
+      internalID: -2640880814934934475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_17"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 750
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2c625f5e0410280800000000000000
+      internalID: -9078904017397562704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_18"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec88b9a6f5ca8e00800000000000000
+      internalID: 1047867526517132512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_19"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 500
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f28c3e0a85c64640800000000000000
+      internalID: 5063952027759706869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_20"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 500
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d5df6adb55f90f0800000000000000
+      internalID: -1108072710271050494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_21"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a47680d01306b80800000000000000
+      internalID: -8403662972628022707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_22"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 250
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3111ae4cc320480800000000000000
+      internalID: -8934511894311398429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_23"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 250
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58572bfa12535d50800000000000000
+      internalID: 6724808944430569562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57323d8bf4946f80800000000000000
+      internalID: -8114196820488210597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_25"
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6906a93d079432170800000000000000
+      internalID: 8152440499406004374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Salir_26"
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36d5f46410591f90800000000000000
+      internalID: -6982461698737842627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
